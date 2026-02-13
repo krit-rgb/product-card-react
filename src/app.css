@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+.container {
+  padding: 40px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 30px;
+}
+
+.card-wrapper {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
